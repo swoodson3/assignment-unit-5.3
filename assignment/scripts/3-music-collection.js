@@ -42,6 +42,6 @@ function findByArtist(artist) {
     }
     return artists;
 }
-console.log(findByArtist('days go bye'));
+console.log(findByArtist('mike.'));
 
 
